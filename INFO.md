@@ -1,4 +1,5 @@
 git is awesome!
 new line
-experiment with amend
+I love Hexlet!
+111111
 new data
